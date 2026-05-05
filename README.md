@@ -1,17 +1,5 @@
 # flutter_coding_minds_bootstrap
 
-A new Flutter project.
+Flutter Project created for "Mobile Development with Flutter" bootstrap by Coding Mind Academy.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video made by running "flutter run -d chrome" in terminal and using Chrome's mobile emulator in dev tools.
